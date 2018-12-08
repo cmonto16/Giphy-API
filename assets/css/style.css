@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(240, 69, 69);
+}
+
+.text-box {
+    float: right;
+    font-weight: bold;
+}
+
+button {
+    background-color: #1bc71b;
+}
